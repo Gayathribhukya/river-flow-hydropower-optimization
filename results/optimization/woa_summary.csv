@@ -1,0 +1,2 @@
+algorithm,seed,best_fitness,total_energy_mwh,total_spill_m3,storage_violation_m3,minimum_storage_m3,maximum_storage_m3,execution_time_seconds,iterations,population_size
+WOA,42,942378.430924121,272899.4531578366,1102396427.825289,1.4901161193847656e-08,9999999.999999985,100000000.0,1.4671237468719482,150,40

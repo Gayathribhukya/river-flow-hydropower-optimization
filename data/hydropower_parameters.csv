@@ -1,0 +1,2 @@
+plant_id,head_m,efficiency,min_turbine_flow_m3_s,max_turbine_flow_m3_s,min_release_m3_s,max_release_m3_s,initial_storage_m3,min_storage_m3,max_storage_m3
+SEYHAN_DEMO_HPP,50,0.90,10,120,5,150,50000000,10000000,100000000
